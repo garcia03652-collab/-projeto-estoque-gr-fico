@@ -1,0 +1,4 @@
+:root{--bg:#fff;--text:#111;--contrast:7.3}
+[data-theme="dark"]{--bg:#000;--text:#fff}
+body{background:var(--bg);color:var(--text);font-family:Arial}
+:focus{outline:3px solid #005fcc}  
